@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Swiss Post is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://post.ch/
+Swiss Post AG is the national postal service of Switzerland, offering mail, parcel, logistics, financial and digital services. It connects people, businesses and regions with reliable delivery, e‑commerce solutions, sustainability initiatives and innovative digital platforms.
+
+**Areas:** Company · Postal Service · Logistics · Finance · Digital Services · Switzerland
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://post.ch/)
+- [Documentation](https://www.post.ch/de)
+- [Sign up](https://www.post.ch/en/sending-letters/registered-mail/registered-international)
+- [Support](https://help.post.ch/de)
+- [Security](https://vdp.post.ch/p/Information-Security)
+- [Privacy policy](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/privacy-policy)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/swiss-post/](https://apis.io/providers/swiss-post/).
